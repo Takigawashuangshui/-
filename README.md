@@ -3,4 +3,4 @@
 
 利用了MNIST数据集：
 http://yann.lecun.com/exdb/mnist/
-数据集存放在压缩文件data里。
+数据集存放在了压缩文件data里。
